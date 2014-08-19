@@ -1,0 +1,21 @@
+{
+  "name": "cair-panel",
+  "version": "0.0.0",
+  "homepage": "https://github.com/cair/panel",
+  "authors": [
+    "Bastian Hofmann <bastianhofmann@me.com>"
+  ],
+  "description": "The frontend package for the cair cms.",
+  "main": "./dist/js/cair.js",
+  "keywords": [
+    "Cair",
+    "CMS"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
